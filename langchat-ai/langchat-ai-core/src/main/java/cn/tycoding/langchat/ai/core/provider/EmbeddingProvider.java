@@ -45,7 +45,7 @@ public class EmbeddingProvider {
     private final ModelStoreFactory modelStoreFactory;
 
     public static DocumentSplitter splitter() {
-        return DocumentSplitters.recursive(300, 20);
+        return DocumentSplitters.recursive(1200, 500);
     }
 
     public EmbeddingModel getEmbeddingModel(List<String> knowledgeIds) {

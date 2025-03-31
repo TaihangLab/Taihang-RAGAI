@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LangChat
 
 > 快速构建企业级AIGC项目
@@ -134,3 +135,6 @@ Copyright (c) 2024-present, TyCoding.
 - 博客: https://tycoding.cn
 - Github: https://github.com/tycoding
 - 邮箱: langchat@outlook.com
+=======
+# Taihang-RAGAI
+>>>>>>> 57cfd18ce611c963b2ba394fd3260933605913cc

@@ -292,13 +292,13 @@
 
       // 图标列表
       const iconList = [
-        {
-          icon: 'GithubOutlined',
-          tips: 'github',
-          eventObject: {
-            click: () => window.open('https://github.com/tycoding/langchat'),
-          },
-        },
+        //{
+         // icon: 'GithubOutlined',
+          //tips: 'github',
+          //eventObject: {
+            //click: () => window.open('https://github.com/tycoding/langchat'),
+         // },
+        //},
         // {
         //   icon: 'LockOutlined',
         //   tips: '锁屏',
